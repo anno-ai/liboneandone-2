@@ -1,5 +1,5 @@
 {
-  "name": "liboneandone-2",
+  "name": "@annoai/liboneandone-2",
   "version": "1.0.0",
   "description": "Forked from The 1&1 Library for Node and Io",
   "author": "alibaz <ali@stackpointcloud.com>",
@@ -9,12 +9,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pfuri/oneandone-cloudserver-sdk-nodejs"
+    "url": "https://github.com/anno-ai/liboneandone-2.git"
   },
   "bugs": {
-    "url": "https://github.com/pfuri/oneandone-cloudserver-sdk-nodejs/issues"
+    "url": "https://github.com/anno-ai/liboneandone-2/issues"
   },
-  "homepage": "https://github.com/pfuri/oneandone-cloudserver-sdk-nodejs",
+  "homepage": "https://github.com/anno-ai/liboneandone-2",
   "directories": {
     "example": "examples"
   },
@@ -37,7 +37,7 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^8.0.1"
   },
   "scripts": {
     "test": "mocha"
